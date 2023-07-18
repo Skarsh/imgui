@@ -31,6 +31,10 @@ JSON/
 ## Commonly used CMake directories
 build*/
 
+## Premake bin folders
+bin/
+bin-int/
+
 ## Xcode artifacts
 project.xcworkspace
 xcuserdata
