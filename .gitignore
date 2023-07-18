@@ -31,9 +31,10 @@ JSON/
 ## Commonly used CMake directories
 build*/
 
-## Premake bin folders
+## Premake generated folder and files
 bin/
 bin-int/
+ImGui.vcxproj
 
 ## Xcode artifacts
 project.xcworkspace
